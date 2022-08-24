@@ -1,0 +1,3 @@
+Pengembangan Produk adalah salah satu mata kuliah di teknik Industri yang mempelajari alur pengembangan produk
+Mata kuliah ini mengajarkan mulai dari tahap planning hingga produk bisa dipasarkan
+Pada pengembangan produk juga terdapat life cycle pengembangan produk yang telah familiar di kalangan pengembang
