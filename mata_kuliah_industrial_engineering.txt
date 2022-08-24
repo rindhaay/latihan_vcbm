@@ -1,0 +1,13 @@
+Jurusan teknik Industri memiliki berbagai macam mata kuliah yang dipelajari, yaitu :
+1. Gambar Teknik
+2. Mekanika Teknik
+3. Psikologi Industri
+4. Manajemen Proyek Industri
+5. Data Analitik
+6. Pemodelan Sistem
+7. Operational Research
+8. Probabilitas dan Statistika
+9. Pengembangan Produk
+10. Analisis Perancangan Perusahaan
+11. Ekonomi Teknik
+Dan masih banyak lagi
